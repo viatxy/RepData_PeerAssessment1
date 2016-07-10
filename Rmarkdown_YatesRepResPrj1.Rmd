@@ -359,3 +359,4 @@ head (mean_data)
 
 xyplot(mean ~ interval | daytype, mean_data, type = "l", lwd=1, 
         xlab="interval", ylab="Number of Steps", layout=c(1,2))
+```
